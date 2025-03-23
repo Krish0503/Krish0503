@@ -5,6 +5,8 @@
 - 📫 How to reach me krishbarma51@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![GitHub Repo stars](https://img.shields.io/github/stars/Krish0503/Krish0503?style=for-the-badge)
+
 
 <!---
 Krish0503/Krish0503 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
